@@ -9,3 +9,9 @@ I want to enter the company <Epam> and through 5 years become a project manager.
 * HTML
 * CSS
 * Javascript
+### Education ###
+* 3 courses of BSEU Law Faculty
+* RS School now
+### Languages ###
+* Russian
+* English(A2, pracriced at the univercity)
