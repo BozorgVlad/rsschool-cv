@@ -1,0 +1,102 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    background: rgb(192, 192, 192);
+    border: 3px dotted black;
+    padding-top: 15px
+}
+
+.cv, .name {
+    color: #200000;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+.photo img {
+    width: 150px;
+    height: 200px;
+}
+
+.photo {
+    position: relative;
+    top: -34px;
+    left: 84px;
+    height: 200px;
+    width: 150px;
+    border-radius: 100px;
+    overflow: hidden;
+}
+
+.cv {
+    margin: 0 auto;
+}
+
+.contacts {
+    text-align: left;
+}
+
+.contacts a {
+    text-decoration: none;
+    color: black;
+    transition: all 0.5s ease;
+}
+
+.contacts li { 
+    margin-left: 227px;
+    transition: all 0.5s ease;
+}
+
+.contacts li:hover, .contacts a:hover {
+    transform: scale(1.1);
+    color: #006060;
+}
+
+ul li {
+    list-style: none;
+}
+
+.name {
+    margin-top: -154px;
+}
+
+.contacts-header {
+    margin-left: -404px;
+}
+
+
+main span {
+    display: block;
+    margin-left: 140px;
+    width: 680px;
+}
+
+.summary {
+    margin-left: 140px;
+}
+
+.skills {
+    margin-left: 140px;
+}
+
+.skills-list {
+    margin-left: 100px;
+}
+
+.education, .languages {
+    margin-left: 140px;
+}
+
+.education-list, .languages-list {
+    margin-left: 100px;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li, span {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
